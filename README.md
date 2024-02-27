@@ -2,5 +2,5 @@ Repository to publish projects done as part of Data Science program requirements
 
 * RetailMart product sales prediction
 * Customer service requests analysis
-
+* Costa Rica proxy means
 
