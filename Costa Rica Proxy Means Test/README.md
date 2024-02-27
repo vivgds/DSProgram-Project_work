@@ -9,7 +9,7 @@ While this is an improvement, accuracy remains a problem as the region’s popul
 
 The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.
 
-The project develops a high-performing classification model based on Random Forest Classifier & XGBoost Classifier to classify families correctly if they qualify for aid or not.
+The project develops a high-performing Random Forest Classifier model to classify families correctly if they qualify for aid or not. A XGBoost Classifier was also developed can compared to Random Forest model.
 
 ### Dataset(s)
 Refer to 'Data Fields Description.pdf' for the definition of different features in the dataset. Raw data is as per 'train.csv' and 'test.csv'   
